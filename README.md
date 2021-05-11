@@ -3,4 +3,3 @@ This is repository contains cleaned code used to produce results for the IPV SDG
 ## Additional Info
 - Data analyzed and generated as part of this effort is available on [IHME's Global Health Data Exchange (GHDx) page](http://ghdx.healthdata.org/).
 - The modeling approach uses Spatiotemporal Gaussian Process Regression (ST-GPR), and the source code for this strategy can be found [here](https://github.com/ihmeuw/ihme-modeling/tree/main/gbd_2019/risk_factors_code/st_gpr). 
-- The code uses logit raking functions developed by the LBD IHME team, which can found [here](https://github.com/ihmeuw/lbd/blob/edu-lmic-2019/lbd_core/mbg_central/raking_functions.R). 

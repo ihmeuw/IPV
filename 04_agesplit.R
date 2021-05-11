@@ -1,7 +1,7 @@
 ####################################################################################################################################################################
 # 
 # Author: AUTHOR
-# Purpose: Age split IPV data, to be run after data is prepped and st-gpr model run in '01_prep_agesplit.R'
+# Purpose: Age split IPV data, to be run after data is prepped and st-gpr model run in 'prep_agesplit.R'
 #
 ####################################################################################################################################################################
 
